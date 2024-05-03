@@ -10,8 +10,8 @@ Screenshot
 
 Links
 
-- Solution URL: []
-- Live Site URL: []
+- Solution URL: [https://www.frontendmentor.io/solutions/blog-preview-card-cgaNcVfkI1]
+- Live Site URL: [https://daderisme.github.io/BLOG-PREVIEW-CARD/]
 
 
 Built with
